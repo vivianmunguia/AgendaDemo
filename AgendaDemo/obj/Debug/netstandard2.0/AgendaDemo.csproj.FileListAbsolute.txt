@@ -1,0 +1,16 @@
+C:\AgendaDemo\AgendaDemo\bin\Debug\netstandard2.0\AgendaDemo.deps.json
+C:\AgendaDemo\AgendaDemo\bin\Debug\netstandard2.0\AgendaDemo.dll
+C:\AgendaDemo\AgendaDemo\bin\Debug\netstandard2.0\ref\AgendaDemo.dll
+C:\AgendaDemo\AgendaDemo\bin\Debug\netstandard2.0\AgendaDemo.pdb
+C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\AgendaDemo.csproj.AssemblyReference.cache
+C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\AgendaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\PaginaContacto.xaml.g.cs
+C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\AgendaDemo.AssemblyInfoInputs.cache
+C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\AgendaDemo.AssemblyInfo.cs
+C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\AgendaDemo.csproj.CoreCompileInputs.cache
+C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\AgendaDemo.dll
+C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\ref\AgendaDemo.dll
+C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\AgendaDemo.pdb
