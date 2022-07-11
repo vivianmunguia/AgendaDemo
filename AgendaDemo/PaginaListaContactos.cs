@@ -12,7 +12,7 @@ namespace AgendaDemo
         {
             var lista = new ListView();
             lista.ItemsSource = GeneradorDeContactos.CrearContactos().OrderBy(x => x.Nombre);
-
+            
             Master = new ContentPage
             {
                 Title = "Contactos",

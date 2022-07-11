@@ -14,3 +14,4 @@ C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\XamlC.stamp
 C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\AgendaDemo.dll
 C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\ref\AgendaDemo.dll
 C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\AgendaDemo.pdb
+C:\AgendaDemo\AgendaDemo\obj\Debug\netstandard2.0\HomePage.xaml.g.cs

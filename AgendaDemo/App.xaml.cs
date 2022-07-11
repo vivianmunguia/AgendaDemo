@@ -10,12 +10,7 @@ namespace AgendaDemo
         {
             InitializeComponent();
 
-            MainPage = new PaginaContacto(new Contacto
-            {
-                Nombre = "Héctor Pérez",
-                Direccion = "Avenida X #2",
-                Telefono = "(987) 3232323"
-            });
+            MainPage = new NavigationPage(new HomePage());
         }
 
         protected override void OnStart()
